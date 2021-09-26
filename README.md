@@ -69,56 +69,56 @@ Para cada colega aqui na organização que criar uma versão dos 99 problemas em
 #### Problema 10 - Calculate Euler's totient function phi(m) (2) `**`
 #### Problema 11 - Compare the two methods of calculating Euler's totient function `**`
 ### Lógicas e algoritmos
-#### Problema 1 -
-#### Problema 2 -
-#### Problema 3 -
-#### Problema 4 -
-#### Problema 5 -
+#### Problema 1 - Truth tables for logical expressions `*`
+#### Problema 2 - Truth tables for logical expressions (2) `*`
+#### Problema 3 - Truth tables for logical expressions (3) `**`
+#### Problema 4 - Gray code `**`
+#### Problema 5 - Huffman code `**`
 ### Árvores Binárias
-#### Problema 1 -
-#### Problema 2 -
-#### Problema 3 -
-#### Problema 4 -
-#### Problema 5 -
-#### Problema 6 -
-#### Problema 7 -
-#### Problema 8 -
-#### Problema 9 -
-#### Problema 10 -
-#### Problema 11 -
-#### Problema 12 -
-#### Problema 13 -
-#### Problema 14 -
-#### Problema 15 -
-#### Problema 16 -
-#### Problema 17 -
-#### Problema 18 -
+#### Problema 1 - `**`
+#### Problema 2 - `**`
+#### Problema 3 - `**`
+#### Problema 4 - `**`
+#### Problema 5 - `**`
+#### Problema 6 - `**`
+#### Problema 7 - `**`
+#### Problema 8 - `**`
+#### Problema 9 - `**`
+#### Problema 10 - `**`
+#### Problema 11 - `**`
+#### Problema 12 - `**`
+#### Problema 13 - `**`
+#### Problema 14 - `**`
+#### Problema 15 - `**`
+#### Problema 16 - `**`
+#### Problema 17 - `**`
+#### Problema 18 - `**`
 ### Árvores n-ésimas
-#### Problema 1 -
-#### Problema 2 -
-#### Problema 3 -
-#### Problema 4 -
-#### Problema 5 -
-#### Problema 6 -
+#### Problema 1 - `**`
+#### Problema 2 - `**`
+#### Problema 3 - `**`
+#### Problema 4 - `**`
+#### Problema 5 - `**`
+#### Problema 6 - `**`
 ### Grafos
-#### Problema 1 -
-#### Problema 2 -
-#### Problema 3 -
-#### Problema 4 -
-#### Problema 5 -
-#### Problema 6 -
-#### Problema 7 -
-#### Problema 8 -
-#### Problema 9 -
-#### Problema 10 -
-#### Problema 11 -
+#### Problema 1 - `**`
+#### Problema 2 - `**`
+#### Problema 3 - `**`
+#### Problema 4 - `**`
+#### Problema 5 - `**`
+#### Problema 6 - `**`
+#### Problema 7 - `**`
+#### Problema 8 - `**`
+#### Problema 9 - `**`
+#### Problema 10 -  `**`
+#### Problema 11 - `**`
 ### Diversos
-#### Problema 1 -
-#### Problema 2 -
-#### Problema 3 -
-#### Problema 4 -
-#### Problema 5 -
-#### Problema 6 -
-#### Problema 7 -
-#### Problema 8 -
-#### Problema 9 -
+#### Problema 1 - `**`
+#### Problema 2 - `**`
+#### Problema 3 - `**`
+#### Problema 4 - `**`
+#### Problema 5 - `**`
+#### Problema 6 - `**`
+#### Problema 7 - `**`
+#### Problema 8 - `**`
+#### Problema 9 - `**`
