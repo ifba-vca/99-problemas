@@ -57,17 +57,17 @@ Para cada colega aqui na organização que criar uma versão dos 99 problemas em
 #### Problema 27 - Group the elements of a set into disjoint subsets `**`
 #### Problema 28 - Sorting a list of lists according to length of sublists `**`
 ### Aritiméticas
-#### Problema 1 - `*`
-#### Problema 2 -
-#### Problema 3 -
-#### Problema 4 -
-#### Problema 5 -
-#### Problema 6 -
-#### Problema 7 -
-#### Problema 8 -
-#### Problema 9 -
-#### Problema 10 -
-#### Problema 11 -
+#### Problema 1 - Determine whether a given integer number is prime `**`
+#### Problema 2 - Determine the prime factors of a given positive integer `**`
+#### Problema 3 - Determine the prime factors of a given positive integer (2) `**`
+#### Problema 4 - A list of prime numbers `*`
+#### Problema 5 - Goldbach's conjecture `**`
+#### Problema 6 - A list of Goldbach compositions `**`
+#### Problema 7 - Determine the greatest common divisor of two positive integer numbers `**`
+#### Problema 8 - Determine whether two positive integer numbers are coprime `**`
+#### Problema 9 - Calculate Euler's totient function phi(m) `**`
+#### Problema 10 - Calculate Euler's totient function phi(m) (2) `**`
+#### Problema 11 - Compare the two methods of calculating Euler's totient function `**`
 ### Lógicas e algoritmos
 #### Problema 1 -
 #### Problema 2 -
