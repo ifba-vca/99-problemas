@@ -28,36 +28,36 @@ Para cada colega aqui na organização que criar uma versão dos 99 problemas em
 - Diversos
 
 ### Listas
-#### Problema 1 -
-#### Problema 2 -
-#### Problema 3 -
-#### Problema 4 -
-#### Problema 5 -
-#### Problema 6 -
-#### Problema 7 -
-#### Problema 8 -
-#### Problema 9 -
-#### Problema 10 -
-#### Problema 11 -
-#### Problema 12 -
-#### Problema 13 -
-#### Problema 14 -
-#### Problema 15 -
-#### Problema 16 -
-#### Problema 17 -
-#### Problema 18 -
-#### Problema 19 -
-#### Problema 20 -
-#### Problema 21 -
-#### Problema 22 -
-#### Problema 23 -
-#### Problema 24 -
-#### Problema 25 -
-#### Problema 26 -
-#### Problema 27 -
-#### Problema 28 -
+#### Problema 1 - Find the last element of a list `*`
+#### Problema 2 - Find the last but one element of a list `*`
+#### Problema 3 - Find the K'th element of a list `*`
+#### Problema 4 - Find the number of elements of a list `*`
+#### Problema 5 - Reverse a list `*`
+#### Problema 6 - Find out whether a list is a palindrome `*`
+#### Problema 7 - Flatten a nested list structure `**`
+#### Problema 8 - Eliminate consecutive duplicates of list elements `**`
+#### Problema 9 - Pack consecutive duplicates of list elements into sublists `**`
+#### Problema 10 - Run-length encoding of a list `*`
+#### Problema 11 - Modified run-length encoding `*`
+#### Problema 12 - Decode a run-length encoded list`**`
+#### Problema 13 - Run-length encoding of a list (direct solution) `**`
+#### Problema 14 - Duplicate the elements of a list `*`
+#### Problema 15 - Duplicate the elements of a list a given number of times `**`
+#### Problema 16 - Drop every N'th element from a list `*`
+#### Problema 17 - Split a list into two parts; the length of the first part is given `*`
+#### Problema 18 - Extract a slice from a list `**`
+#### Problema 19 - Rotate a list N places to the left `*`
+#### Problema 20 - Remove the K'th element from a list `*`
+#### Problema 21 - Insert an element at a given position into a list `*`
+#### Problema 22 - Create a list containing all integers within a given range `*`
+#### Problema 23 - Extract a given number of randomly selected elements from a list `**`
+#### Problema 24 - Lotto: Draw N different random numbers from the set 1..M `*`
+#### Problema 25 - Generate a random permutation of the elements of a list `*`
+#### Problema 26 - Generate the combinations of K distinct objects chosen from the N elements of a list `*`
+#### Problema 27 - Group the elements of a set into disjoint subsets `**`
+#### Problema 28 - Sorting a list of lists according to length of sublists `**`
 ### Aritiméticas
-#### Problema 1 -
+#### Problema 1 - `*`
 #### Problema 2 -
 #### Problema 3 -
 #### Problema 4 -
